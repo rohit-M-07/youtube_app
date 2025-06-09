@@ -1,0 +1,46 @@
+{
+<<<<<<< HEAD
+
+=======
+  "0d44e74f-0c3a-4a48-86b9-dc5b8d04491d": {
+    "main_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\main.py",
+    "downloaded_audio_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\audios",
+    "output_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\0d44e74f-0c3a-4a48-86b9-dc5b8d04491d",
+    "youtube_url": "https://www.youtube.com/shorts/6OA9AjzX4k4",
+    "transcript_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\0d44e74f-0c3a-4a48-86b9-dc5b8d04491d\\transcript.txt",
+    "Blog_output": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\0d44e74f-0c3a-4a48-86b9-dc5b8d04491d\\blog.md",
+    "post_output": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\0d44e74f-0c3a-4a48-86b9-dc5b8d04491d\\post.md",
+    "edited_post_output": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\0d44e74f-0c3a-4a48-86b9-dc5b8d04491d\\edited_post.md",
+    "title": "# Understanding Docker in a Nutshell\n",
+    "prompt": "Improve and brief the blog",
+    "rewritten_post": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\0d44e74f-0c3a-4a48-86b9-dc5b8d04491d\\rewritten_post.md"
+  },
+  "b4492f70-dd35-47be-8010-42f8ae3d6374": {
+    "main_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\main.py",
+    "downloaded_audio_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\audios",
+    "output_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\b4492f70-dd35-47be-8010-42f8ae3d6374",
+    "youtube_url": "https://www.youtube.com/shorts/6OA9AjzX4k4",
+    "transcript_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\b4492f70-dd35-47be-8010-42f8ae3d6374\\transcript.txt",
+    "Blog_output": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\b4492f70-dd35-47be-8010-42f8ae3d6374\\blog.md",
+    "post_output": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\b4492f70-dd35-47be-8010-42f8ae3d6374\\post.md",
+    "edited_post_output": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\b4492f70-dd35-47be-8010-42f8ae3d6374\\edited_post.md",
+    "title": "# Understanding YouTube Captions with YouTube_Caption_Downloader\n",
+    "prompt": "Improve and brief the blog",
+    "rewritten_post": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\b4492f70-dd35-47be-8010-42f8ae3d6374\\rewritten_post.md"
+  },
+  "76c8b2bf-7eca-4ddf-8997-9dfac28e24de": {
+    "main_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\main.py",
+    "downloaded_audio_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\audios",
+    "output_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\76c8b2bf-7eca-4ddf-8997-9dfac28e24de",
+    "youtube_url": "https://www.youtube.com/shorts/6OA9AjzX4k4",
+    "transcript_path": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\76c8b2bf-7eca-4ddf-8997-9dfac28e24de\\transcript.txt",
+    "Blog_output": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\76c8b2bf-7eca-4ddf-8997-9dfac28e24de\\blog.md",
+    "post_output": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\76c8b2bf-7eca-4ddf-8997-9dfac28e24de\\post.md",
+    "edited_post_output": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\76c8b2bf-7eca-4ddf-8997-9dfac28e24de\\edited_post.md",
+    "title": "\ud83d\ude80 **Understanding Docker: A Quick Overview \ud83d\udc33**\n",
+    "prompt": "Improve and brief the blog",
+    "rewritten_post": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\76c8b2bf-7eca-4ddf-8997-9dfac28e24de\\rewritten_post.md",
+    "Chat_history": "X:\\Youtube_LinkedIn_automation\\Youtube_LinkedIn_automation\\Backend\\src\\outputs\\76c8b2bf-7eca-4ddf-8997-9dfac28e24de\\chat_history"
+  }
+>>>>>>> 4d23f7e (working-code)
+}
